@@ -1,5 +1,5 @@
 ### Greetings, humans. Call me Loki </br>
-#### A Future computer scientist 👾 (or computer engineering)
+#### A Future computer scientist 👾 (or computer engineer)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=loki0b&show_icons=true&locale=en&theme=radical)
 
