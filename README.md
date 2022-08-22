@@ -8,7 +8,6 @@
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="40" height="40">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="40" height="40">
 </div>
 
 ##### Links:
