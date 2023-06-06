@@ -1,6 +1,6 @@
 # Greetings, humans.
 
-I am interested in STEM-related subjects. I love exploring how these disciplines affect the world and I believe that STEM careers are important for the development of society.
+I like STEM-related subjects. I love exploring how these disciplines affect the world and I believe that STEM careers are important for the development of society. My goal is not just to be a spectator, but an active participant in advancing these areas.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loki0b&langs_count=10&layout=compact&card_width=350&custom_title=Languages&theme=dracula)
 
