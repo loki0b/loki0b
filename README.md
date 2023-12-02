@@ -1,6 +1,7 @@
 # Greetings, humans.
 
-I like STEM-related subjects. I love exploring how these disciplines affect the world and I believe that STEM careers are important for the development of society. My goal is not just to be a spectator, but an active participant in advancing these areas.
+A curious person, who likes to explore the intersection between various subjects and technology. My journey is a mix of experiences in different contexts, fueled by the desire to understand, learn and experiment.
+I look for challenges that allow me to expand my perspectives and contribute to the advancement of technology and human development.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loki0b&langs_count=10&layout=compact&card_width=350&custom_title=Languages&theme=dracula)
 
