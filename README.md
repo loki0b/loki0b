@@ -1,7 +1,7 @@
 # Greetings, humans.
 
-A curious person, who likes to explore the intersection between various subjects and technology. My journey is a mix of experiences in different contexts, fueled by the desire to understand, learn and experiment.
-I look for challenges that allow me to expand my perspectives and contribute to the advancement of technology and human development.
+A curious person, who likes to observe, understand and discover things. Computing, STEM are my favorites. I am interested in research and innovation.
+I also seek to develop my entrepreneurial skills.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loki0b&langs_count=10&layout=compact&card_width=350&custom_title=Languages&theme=dracula)
 
